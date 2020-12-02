@@ -16,7 +16,7 @@ sidebar:
 
     # Sidebar links
     resume: www.cnblogs.com/sinoyou
-    email: zinuo.you [at] outlook [dot] com
+    email: zinuo.you[at]outlook[dot]com
     phone: 86-18086800155
     website: www.cnblogs.com/sinoyou #do not add http://
     # linkedin: alandoe
@@ -52,121 +52,86 @@ career-profile:
       I am a senior undergraduate student majoring in Computer Science and Technology at School of Computer Science and Engineering, Beihang University. I currently work as a research intern at the Lab of Intelligent and Connected Vehicles and my advisor is [Prof. Keqiang Li](http://www.dae.tsinghua.edu.cn/publish/daeen/4370/2011/20110420085553864426792/20110420085553864426792_.html). 
       
         - **Research Interest:** To broaden my horizon and gain systematic professional training, I am broadly interested in both the theoretical and applied areas of **Artificial Intelligence**, particularly in **Computer Vision** and **Robotics**. 
-        - **Current Research:** My current research is the visual perception of intelligent vehicles. My goal is to design learning-based methods to predict movements of vulnerable road users more accurately and stably. I also work on explainable AI and improve deep learning models for their better application on the vehicle system level. 
+
+        - **Current Research:** My current research is the visual perception of intelligent vehicles. My goal is to design learning-based methods to predict movements of vulnerable road users more accurately and reliably. I also work on explainable AI and improve deep learning models for their better application on the system level. 
+
 education:
     - degree: B.Eng. in Computer Science and Technology
       university: Beihang University
       time: 2017 - 2021 (expected)
       details: 
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+research experiences:
+    - role: Research Assistant
+      time: June 2019 - Present
+      company: Lab of Intelligent and Connected Vehicles, Tsinghua University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - **DTP - Daimler Trajectory Prediction:** Proposed new dataset and methods for movement prediction of vulnerable road users. (See my resume for details.)
+        - **Trajectory Prediction on Human-Vehicle Interaction and Uncertainty Estimation:** Improved learning-based trajectory prediction methods for higher accuracy and better application on the system level. (See my resume for details.)
+    
+    - role: Course Developer and Teaching Assistant
+      time: March 2019 - August 2020
+      company: Computer Organization
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Designed tutorials and evaluation. 
+        - MOOC Q&A and course management. 
+
+
+    - role: Teaching Assistant
+      time: March 2019 - June 2020
+      company: Data Structure
+      details: Q&A and course management. 
+          
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
+    title: Honors
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - National Scholarship, **Top 0.2% in China**, 2020.
+      - Enterprise Scholarship, **4 in CS School**, 2020.
+      - Silver Medal, CCF Collegiate Computer System & Programming Contest, 2019.
+      - 10/862, CCF Big Data & Computing Intelligence Contest, 2019. 
+      - Innovation Talent Award, **2 in SHIE College**, 2019. 
+      - Beihang Academic Scholarship, **Top 3% in Beihang**, 2018-2020. 
+      - Beihang Outstanding Student, **Top 5% in Beihang**, 2018-2020. 
+      - Silver Mdeal, The 29th China Adolescents Science & Technology Innovation Contest, 2016. 
+      - Second Prize, National Olympiad in Informatics, 2015. 
+    
+    # assignments:
+    #   - title: Velocity
+    #     link: "#hook"
+    #     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-skills:
-    title: Skills &amp; Proficiency
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
-      - name: Javascript & jQuery
-        level: 98%
+# skills:
+#     title: Skills &amp; Proficiency
 
-      - name: Angular
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Javascript & jQuery
+#         level: 98%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
