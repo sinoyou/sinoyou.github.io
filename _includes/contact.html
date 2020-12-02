@@ -13,6 +13,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.resume %}
+    <li class="resume"><i class="fas fa-file-alt"></i>
+      <a href="https://{{ sidebar.resume }}">{{ Resume(CV) }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.telegram %}
     <li class="telegram"><i class="fab fa-telegram"></i>
       <a href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>
