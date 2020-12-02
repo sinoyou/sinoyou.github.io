@@ -61,7 +61,7 @@ education:
       time: 2017 - 2021 (expected)
       details: 
 
-research experiences:
+experiences:
     - role: Research Assistant
       time: June 2019 - Present
       company: Lab of Intelligent and Connected Vehicles, Tsinghua University
@@ -76,7 +76,6 @@ research experiences:
         - Designed tutorials and evaluation. 
         - MOOC Q&A and course management. 
 
-
     - role: Teaching Assistant
       time: March 2019 - June 2020
       company: Data Structure
@@ -85,15 +84,15 @@ research experiences:
 projects:
     title: Honors
     intro: |
-      - National Scholarship, **Top 0.2% in China**, 2020.
-      - Enterprise Scholarship, **4 in CS School**, 2020.
-      - Silver Medal, CCF Collegiate Computer System & Programming Contest, 2019.
-      - 10/862, CCF Big Data & Computing Intelligence Contest, 2019. 
-      - Innovation Talent Award, **2 in SHIE College**, 2019. 
-      - Beihang Academic Scholarship, **Top 3% in Beihang**, 2018-2020. 
-      - Beihang Outstanding Student, **Top 5% in Beihang**, 2018-2020. 
-      - Silver Mdeal, The 29th China Adolescents Science & Technology Innovation Contest, 2016. 
-      - Second Prize, National Olympiad in Informatics, 2015. 
+        - National Scholarship, **Top 0.2% in China**, 2020.
+        - Enterprise Scholarship, **4 in CS School**, 2020.
+        - Silver Medal, CCF Collegiate Computer System & Programming Contest, 2019.
+        - 10/862, CCF Big Data & Computing Intelligence Contest, 2019. 
+        - Innovation Talent Award, **2 in SHIE College**, 2019. 
+        - Beihang Academic Scholarship, **Top 3% in Beihang**, 2018-2020. 
+        - Beihang Outstanding Student, **Top 5% in Beihang**, 2018-2020. 
+        - Silver Mdeal, The 29th China Adolescents Science & Technology Innovation Contest, 2016. 
+        - Second Prize, National Olympiad in Informatics, 2015. 
     
     # assignments:
     #   - title: Velocity
