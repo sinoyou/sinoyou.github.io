@@ -11,8 +11,12 @@
     <h1 class="name">{{ sidebar.name }}</h1>
     {% endif %}
 
+    {% if sidebar.cnname %}
+    <h3 class="tagline">{{ sidebar.cnname }}</h3>
+
     {% if sidebar.tagline %}
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
+
     {% endif %}
 
   </div><!--//profile-container-->
