@@ -15,7 +15,7 @@ sidebar:
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    resume: yzn-public-files.oss-us-west-1.aliyuncs.com/Zinuo_You_CV%2812%3A2020%29.pdf
+    resume: yzn-public-files.oss-us-west-1.aliyuncs.com/Zinuo_You_Resume_%282021%3A1%29.pdf  # do not add http://
     email: zinuo.you[at]outlook[dot]com
     phone: 86-18086800155
     website: www.cnblogs.com/sinoyou #do not add http://
